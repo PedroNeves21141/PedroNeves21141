@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Eu sou o <i>Pedro Neves</i></a></h1>
+  <h1 align="center"> Eu sou o <a href="https://github.com/PedroNeves21141"><i>Pedro Neves</i></a></h1>
   <p align="center">Estudo sistemas informaticos no  <a href="https://ipca.pt/"><i>IPCA ( Instituto Politécnico do Cávado e do Ave )</i></a> 
 </div>
 
