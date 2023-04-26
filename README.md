@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"><i>Pedro Neves</i></h1>
-  <p align="center">Estudante em Engenharia de Sistemas Informáticos no  <a href="https://ipca.pt/"><i>IPCA ( Instituto Politécnico do Cávado e do Ave )</i></a> 
+  <p align="center"><i>Estudante em Engenharia de Sistemas Informáticos no  <a href="https://ipca.pt/"><i>IPCA ( Instituto Politécnico do Cávado e do Ave )</i></a> 
 </div>
 
 <div align="center">
